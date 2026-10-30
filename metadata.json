@@ -1,0 +1,6 @@
+{
+  "name": "Modern To-Do List",
+  "description": "A sleek, responsive task management app with interactive CRUD operations, priorities, tags, smart filters, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
